@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container .btn {
+    margin-bottom: 10px;
+}
+
+.container form .form-group label {
+    margin-bottom: 10px;
+    font-family:'Roboto', sans-serif; ;
+}
+.container form .form-group .form-control {
+    margin-bottom: 20px;
+    font-family:'Roboto', sans-serif; ;
+}
+
+.container form .form-group input[type="file"] {
+    margin-bottom: 5px;
+    font-family:'Roboto', sans-serif; 
+}
